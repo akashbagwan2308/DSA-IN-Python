@@ -130,8 +130,8 @@ def indexLastB(a,x,si):
 
 #-------------------------------------------
 if __name__ == '__main__':
-    # n = int(input('give the value '))
-    # print_1_to_n(n)
+    n = int(input('give the value '))
+    print_1_to_n(n)
     # print_n_to_1(n)
     # print(fact(n))
     # print(sum(n))
@@ -141,9 +141,9 @@ if __name__ == '__main__':
     # print(sumArray(a))
     # print(checkNum(a,5))
     # print(isSorted1(a,0))
-    a = [ 1,2,5,3,6,8,5,4,5,89,5,4]
-    # print(Index(a,5))
-    # print(Index1(a,5,0))
-    print(indexLast(a,5))
-    print(indexLast1(a,5))
-    print(indexLastB(a,5,0))
+    # a = [ 1,2,5,3,6,8,5,4,5,89,5,4]
+    # # print(Index(a,5))
+    # # print(Index1(a,5,0))
+    # print(indexLast(a,5))
+    # print(indexLast1(a,5))
+    # print(indexLastB(a,5,0))
